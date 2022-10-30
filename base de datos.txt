@@ -1,0 +1,2 @@
+la base de datos usado para este proyecto es crud_livewire
+link del video: https://www.youtube.com/watch?v=TnPGlmjx-_c&list=PLrAw40DbN0l2f3A_hjcYi7rw8CqUDXpv2
